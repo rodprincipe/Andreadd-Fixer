@@ -1,6 +1,6 @@
 // ==UserScript==
-// @namespace     https://openuserjs.org/users/rodprincipe
 // @name          AndreaddFixer
+// @namespace     https://openuserjs.org/users/rodprincipe
 // @description   Fix the links in the website
 // @copyright     2019, rodprincipe (https://openuserjs.org/users/rodprincipe)
 // @license       MIT
@@ -8,7 +8,7 @@
 // @author        rodprincipe
 // @include       https://www.andreadd.it/*
 // @require       https://code.jquery.com/jquery-3.3.1.min.js
-// @grant none
+// @grant         none
 // ==/UserScript==
 
 // ==OpenUserJS==
