@@ -5,8 +5,9 @@
 // @copyright     2019, rodprincipe (https://openuserjs.org/users/rodprincipe)
 // @license       MIT
 // @version       0.1
+// @author        rodprincipe
 // @include       https://www.andreadd.it/*
-// @require      https://code.jquery.com/jquery-3.3.1.min.js
+// @require       https://code.jquery.com/jquery-3.3.1.min.js
 // @grant none
 // ==/UserScript==
 
