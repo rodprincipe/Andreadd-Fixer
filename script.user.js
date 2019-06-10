@@ -22,6 +22,6 @@ $('.plussbullets a').each(function(i){
     var urlsplit = urlb.split("/");
     var nome = urlsplit[urlsplit.length-1];
     $(this).attr('href',urlb);
-    //uncomment next line to direct download
+    //uncomment to activate direct download
     //$(this).attr('download',nome);       
 });
