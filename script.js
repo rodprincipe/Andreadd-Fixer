@@ -1,14 +1,19 @@
 // ==UserScript==
-// @namespace    https://openuserjs.org/users/rodprincipe
-// @name         AndreaddFixer
-// @description  Fix the links in the website
-// @version      0.1
-// @license      MIT
-// @author       rodprincipe
-// @include      https://www.andreadd.it/*
+// @namespace     https://openuserjs.org/users/rodprincipe
+// @name          AndreaddFixer
+// @description   Fix the links in the website
+// @copyright     2019, rodprincipe (https://openuserjs.org/users/rodprincipe)
+// @license       MIT
+// @version       0.1
+// @include       https://www.andreadd.it/*
 // @require      https://code.jquery.com/jquery-3.3.1.min.js
-// @grant        none
+// @grant none
 // ==/UserScript==
+
+// ==OpenUserJS==
+// @author rodprincipe
+// ==/OpenUserJS==
+
 
 $('.plussbullets a').each(function(i){
     var urla = $(this).attr('href');
